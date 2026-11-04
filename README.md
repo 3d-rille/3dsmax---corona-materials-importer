@@ -4,7 +4,7 @@ First release of a MaxScript/Python tool that converts Corona materials to Physi
 corona_dump.py
 
 corona_export.py	
-This is a file Baserad on Blender-importern io_scene_max project by:
+This is a file Baserad on Blender-importern io_scene_max project by :Licens: GPL-2.0-or-later
 2023-2026 Sebastian Schrand
 2017-2022 Jens M. Plonka  (ImportMAX)
 2005-2018 Philippe Lagadec (olefile)
@@ -25,15 +25,3 @@ global ct_python = "python"                    -- eller full sokvag, t.ex. @"C:\
 .........................
 .........................
 
-
-
-
-# corona_export.py
-# Laser Corona-material ur en .max-fil (utan Corona, Max eller Blender) och
-# skriver en MAXScript-fil (.ms) med materialdatan.
-#
-# Baserad pa Blender-importern io_scene_max:
-#   Copyright 2023-2026 Sebastian Schrand
-#             2017-2022 Jens M. Plonka  (ImportMAX)
-#             2005-2018 Philippe Lagadec (olefile)
-# Licens: GPL-2.0-or-later
