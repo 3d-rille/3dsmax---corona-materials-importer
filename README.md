@@ -12,7 +12,7 @@ This is a file Baserad on Blender-importern io_scene_max project by:
 corona_replace.ms
 
 corona_tool_run_this_in_max.ms    <---  run this file in max, 
-(You have to set the path to the python-files in this file to)
+(You have to set the path to the python-files in this file to) 
 
 
 
