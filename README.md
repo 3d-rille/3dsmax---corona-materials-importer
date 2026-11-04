@@ -18,11 +18,8 @@ corona_tool_run_this_in_max.ms    <---  run this file in max,
 ```
 ----------------corona_tool_run_this_in_max.ms---------------
 -- ===== INSTALLNINGAR) =====  (Settings in the scriptfile )
+
 global ct_scriptDir = @"A:\script\max\aaaa_RN\dev_rn\corona_material_import\"   -- This have to be the folder that the phytonfiles live in.
--------------
-global ct_python = "python"                    -- eller full sokvag, t.ex. @"C:\Python312\python.exe"
-.........................
-.........................
 .........................
 
 ```
